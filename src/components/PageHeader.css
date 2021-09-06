@@ -11,7 +11,7 @@
 }
 
 .PageHeader-large {
-  padding: 20rem 0;
+  padding: 20rem 20rem 20rem 0;
 }
 
 .PageHeader--Title {
@@ -20,7 +20,7 @@
 }
 
 .PageHeader--Subtitle {
-  font-weight: 400;
+  font-weight: 900;
   font-size: 1.8rem;
 }
 
