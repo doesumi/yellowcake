@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: pinable
-featuredImage: https://ucarecdn.com/d894e908-57da-4a37-bd50-6138d6f28447/
+featuredImage: https://ucarecdn.com/3880727f-0440-44a3-9a00-36ba0e032317/
 subtitle: pinable（ピナブル）は、交通インフラや商業施設などに設置したビーコンによって取得する位置情報を活用し、ビーコン管理・SDK・DMP・広告配信（DSP連携）などのサービスを提供するトータルマーケティングプラットフォームです。
 meta:
   description: This is a meta description.
