@@ -2,7 +2,7 @@
   background-color: var(--darkGrey);
 /*  color: white;*/
   color: black;
-  padding: 15rem 0;
+  padding: 15rem 20rem 15rem 0;
 }
 
 .PageHeader .BackgroundImage {
@@ -20,7 +20,7 @@
 }
 
 .PageHeader--Subtitle {
-  font-weight: 400;
+  font-weight: 700;
   font-size: 1.8rem;
 }
 
