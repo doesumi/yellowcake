@@ -8,7 +8,7 @@
 .PageHeader .BackgroundImage {
 /*  opacity: 0.8;*/
   opacity: .96;
-    background-position: 50% 40%;
+    background-position: 80%;
 }
 
 .PageHeader-large {
@@ -18,12 +18,12 @@
 .PageHeader--Title {
   font-size: 6rem;
   margin-bottom: 0;
-    width: 50%;
+    width: 40%;
 }
 
 .PageHeader--Subtitle {
   font-size: 1.8rem;
-    width: 50%;
+    width: 40%;
 }
 
 .PageHeader .container {
@@ -34,7 +34,17 @@
   .PageHeader {
     padding: 7rem 0;
   }
+  .PageHeader .BackgroundImage {
+    background-position: right;
+  }
   .PageHeader-large {
-    padding: 12.5rem 0;
+/*    padding: 12.5rem 0;*/
+    padding: 7rem 0;
+  }
+  .PageHeader--Title {
+    width: 100%;
+  }
+  .PageHeader--Subtitle {
+    width: 100%;
   }
 }
